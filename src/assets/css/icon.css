@@ -1,0 +1,4 @@
+
+    [class*=" el-icon-mx"], [class^=el-icon-mx] {
+        font-family: mx-iconfont!important;
+    }
